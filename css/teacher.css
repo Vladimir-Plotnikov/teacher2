@@ -1,0 +1,27 @@
+.list {
+  list-style: none;
+  padding-inline-start: 0px;
+}
+
+.link {
+}
+
+.teacher-title-container {
+  margin: 20px;
+}
+
+.teacher-title {
+  color: brown;
+}
+
+.teacher-img {
+  width: 530px;
+  height: 667px;
+}
+
+.teacher-container {
+  display: flex;
+}
+
+.teacher-link {
+}
