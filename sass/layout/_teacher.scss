@@ -58,11 +58,17 @@
 
       color: #111518;
     }
-    .teacher-list-skilz::before {
+
+    .teacher-svg-position {
+      position: relative;
+    }
+
+    .teacher-svg {
       position: absolute;
-      left: 0%;
-      content: url(../images/galochka.png);
-      padding-right: 34px;
+      top: 0%;
+      width: 24px;
+      height: 20px;
+      fill: #ff6b09;
     }
 
     .teacher-list-title {
@@ -173,11 +179,17 @@
 
       color: #111518;
     }
-    .teacher-list-skilz::before {
+
+    .teacher-svg-position {
+      position: relative;
+    }
+
+    .teacher-svg {
       position: absolute;
-      left: 0%;
-      content: url(../images/galochka.png);
-      padding-right: 34px;
+      top: 0%;
+      width: 24px;
+      height: 20px;
+      fill: #ff6b09;
     }
 
     .teacher-list-title {
@@ -277,7 +289,6 @@
     }
 
     .teacher-list-skilz {
-      position: relative;
       font-family: Montserrat;
       font-size: 16px;
       line-height: 20px;
@@ -287,11 +298,17 @@
 
       color: #111518;
     }
-    .teacher-list-skilz::before {
+
+    .teacher-svg-position {
+      position: relative;
+    }
+
+    .teacher-svg {
       position: absolute;
-      left: 0%;
-      content: url(../images/galochka.png);
-      padding-right: 34px;
+      top: 0%;
+      width: 24px;
+      height: 20px;
+      fill: #ff6b09;
     }
 
     .teacher-list-title {
