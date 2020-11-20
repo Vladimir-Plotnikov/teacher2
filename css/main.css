@@ -69,9 +69,12 @@
     width: 279px;
   }
   .teacher_container .teacher-list-container-title::before {
-    display: flex;
-    content: url(../images/stick.png);
+    display: block;
+    content: "";
+    width: 20px;
+    height: 3px;
     margin-bottom: 20px;
+    background-color: #ff6b09;
   }
   .teacher_container .teacher-img {
     width: 243px;
@@ -162,9 +165,12 @@
     width: 401px;
   }
   .teacher_container .teacher-list-container-title::before {
-    display: flex;
-    content: url(../images/stick.png);
+    display: block;
+    content: "";
+    width: 20px;
+    height: 3px;
     margin-bottom: 20px;
+    background-color: #ff6b09;
   }
   .teacher_container .teacher-img {
     width: 243px;
@@ -249,7 +255,7 @@
     color: #b9b9b9;
   }
   .teacher_container .teacher-list-container {
-    padding-top: 15px;
+    padding-top: 29px;
     width: 530px;
   }
   .teacher_container .teacher-list-container-title {
@@ -257,9 +263,12 @@
     margin: 0 auto;
   }
   .teacher_container .teacher-list-container-title::before {
-    display: flex;
-    content: url(../images/stick.png);
+    display: block;
+    content: "";
+    width: 20px;
+    height: 3px;
     margin-bottom: 20px;
+    background-color: #ff6b09;
   }
   .teacher_container .teacher-img {
     width: 530px;

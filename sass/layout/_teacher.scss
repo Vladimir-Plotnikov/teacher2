@@ -84,9 +84,12 @@
     }
 
     .teacher-list-container-title::before {
-      display: flex;
-      content: url(../images/stick.png);
+      display: block;
+      content: "";
+      width: 20px;
+      height: 3px;
       margin-bottom: 20px;
+      background-color: #ff6b09;
     }
 
     .teacher-img {
@@ -196,9 +199,12 @@
     }
 
     .teacher-list-container-title::before {
-      display: flex;
-      content: url(../images/stick.png);
+      display: block;
+      content: "";
+      width: 20px;
+      height: 3px;
       margin-bottom: 20px;
+      background-color: #ff6b09;
     }
 
     .teacher-img {
@@ -299,7 +305,7 @@
     }
 
     .teacher-list-container {
-      padding-top: 15px;
+      padding-top: 29px;
       width: 530px;
     }
 
@@ -309,9 +315,12 @@
     }
 
     .teacher-list-container-title::before {
-      display: flex;
-      content: url(../images/stick.png);
+      display: block;
+      content: "";
+      width: 20px;
+      height: 3px;
       margin-bottom: 20px;
+      background-color: #ff6b09;
     }
 
     .teacher-img {
