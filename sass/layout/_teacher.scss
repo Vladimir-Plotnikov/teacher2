@@ -35,6 +35,15 @@
       color: #111518;
     }
 
+    .teacher-name::after {
+      display: block;
+      content: "";
+      margin-top: 15px;
+      width: 100%;
+      height: 1px;
+      background-color: black;
+    }
+
     .teacher-title-container {
     }
 
@@ -44,7 +53,7 @@
       font-size: 14px;
       line-height: 17px;
       letter-spacing: 0.06em;
-      padding-bottom: 10px;
+      padding-bottom: 20px;
       padding-left: 26px;
 
       color: #111518;
@@ -61,7 +70,7 @@
       font-weight: 500;
       font-size: 18px;
       line-height: 28px;
-      padding-bottom: 10px;
+      padding-bottom: 20px;
 
       color: #b9b9b9;
     }
@@ -86,6 +95,7 @@
     }
 
     .teacher-description-container {
+      width: 280px;
     }
 
     .teacher-link {
@@ -123,6 +133,7 @@
     }
 
     .teacher-name {
+      margin: 0 auto;
       font-family: Montserrat;
       font-style: normal;
       font-weight: 800;
@@ -133,6 +144,15 @@
       letter-spacing: 0.08em;
 
       color: #111518;
+    }
+
+    .teacher-name::after {
+      display: block;
+      content: "";
+      margin-top: 15px;
+      width: 100%;
+      height: 1px;
+      background-color: black;
     }
 
     .teacher-title-container {
@@ -188,6 +208,7 @@
 
     .teacher-description-container {
       display: flex;
+      margin: 0 auto;
     }
 
     .teacher-link {
@@ -224,6 +245,7 @@
     }
 
     .teacher-name {
+      margin: 0 auto;
       font-family: Montserrat;
       font-style: normal;
       font-weight: 800;
@@ -236,6 +258,15 @@
       color: #111518;
     }
 
+    .teacher-name::after {
+      display: block;
+      content: "";
+      margin-top: 15px;
+      width: 100%;
+      height: 1px;
+      background-color: black;
+    }
+
     .teacher-title-container {
       padding-left: 31px;
     }
@@ -246,7 +277,7 @@
       font-size: 16px;
       line-height: 20px;
       letter-spacing: 0.06em;
-      padding-bottom: 16px;
+      padding-bottom: 20px;
       padding-left: 59px;
 
       color: #111518;
@@ -263,17 +294,19 @@
       font-weight: 500;
       font-size: 18px;
       line-height: 28px;
-      padding-bottom: 17px;
+      padding-bottom: 20px;
 
       color: #b9b9b9;
     }
 
     .teacher-list-container {
+      padding-top: 15px;
       width: 530px;
     }
 
     .teacher-list-container-title {
       width: 641px;
+      margin: 0 auto;
     }
 
     .teacher-list-container-title::before {
